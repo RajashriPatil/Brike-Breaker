@@ -1,2 +1,2 @@
-# Brike-Breaker
-Veritech Task
+# Brick-Breaker
+BRICK-BREAKER game developed using Java Swing.
